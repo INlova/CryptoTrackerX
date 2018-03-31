@@ -1,3 +1,4 @@
+//don't fear the warnings re:global assignment for 
 function httpGet(theUrl) {
 	var xmlHttp = null;
 	xmlHttp = new XMLHttpRequest();
